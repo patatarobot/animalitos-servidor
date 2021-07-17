@@ -1,0 +1,20 @@
+{
+  "name": "animalitos-servidor",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patatarobot/animalitos-servidor.git"
+  },
+  "author": "patatarobot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patatarobot/animalitos-servidor/issues"
+  },
+  "homepage": "https://github.com/patatarobot/animalitos-servidor#readme"
+}
